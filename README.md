@@ -14,9 +14,10 @@ Let us know what you think! And if somehow you arrived here having never heard o
 
 ## Core
 
-### The Call Came from Inside the Network - Launch 5/17/23
-Ubiquiti Breach
-Insider Threat
+### The Call Came from Inside the Network - Launched 5/17/23
+[Scenario Guide](Call From Inside the Network/Call From Inside the Network.md)
+
+Ubiquiti Breach - Insider Threat
 
 ### That's Disputable - Launch 5/19/23
 Equifax
