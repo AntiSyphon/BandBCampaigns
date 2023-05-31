@@ -19,36 +19,36 @@ Let us know what you think! And if somehow you arrived here having never heard o
 
 Ubiquiti Breach - Insider Threat
 
-### That's Disputable - Launch 5/19/23
+### That's Disputable - Launch 6/2/23
 Equifax
 Web Server 
 
-### Supply & Demand - Launch 5/26/23
+### Supply & Demand - Launch 6/9/23
 Solarwinds
 Supply Chain
 
-### Who Watches the Watchers? - Launch 6/2/23
+### Who Watches the Watchers? - Launch 6/16/23
 Sikes Call Center Breach
 
-### They've never asked, but ok, sure - Launch 6/9/23
+### They've never asked, but ok, sure - Launch 6/23/23
 CapitalOne WAF
 Cloud Configuration
 
-### All by Myself - Launch 6/16/23
+### All by Myself - Launch 6/30/23
 NotPetya, Maersk, and the last AD Controller
 Backup and Recovery
 Ransomware
 
-### Noise Noise Noise - 6/23/23
+### Noise Noise Noise - Launch 7/14/23
 Target Breach
 
-### Seeds aren't just Planted - Launch 6/30/23
+### Seeds aren't just Planted - Launch 7/21/23
 RSA Breach
 
-### The patient flatlined - Launch 7/14/23
+### The patient flatlined - Launch 7/28/23
 Pulse VPN Vulnerability
 
-### Billion Dollar Baby - 7/21/23
+### Billion Dollar Baby - 8/4/23
 Elon Musk fires all your people
 
 ## ICS
