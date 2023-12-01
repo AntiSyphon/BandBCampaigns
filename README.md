@@ -23,6 +23,7 @@ Notes: Ubiquiti Breach - Insider Threat
 
 ### That's Disputable
 A scenario based on the Equifax breach. How does you team handle critical vulnerablities on a publically facing system disclosing millions of PII records?
+
 [Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/That's%20Disputable/That's%20Disputable.md)
 
 ### Supply & Demand
