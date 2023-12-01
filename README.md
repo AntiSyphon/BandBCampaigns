@@ -31,11 +31,12 @@ Supply Chain
 ## ICS
 
 ### Water Water Everywhere
-Florida Water Treatment Plant
+*A scenario where a Florida Water Treatment Plant has a security incident related to TeamViewer. Are you ready to detect outside access to a laptop in your enviornment that allows access to sensitive systems?*
+
+[Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/WaterWaterEverywhere/WaterWaterEverywhere.md)
 
 ### A Series of Tubes
 Colonial Pipeline
 
 ### You Spin Me Right Round
 Stuxnet
-
