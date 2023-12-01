@@ -27,30 +27,6 @@ Web Server
 Solarwinds
 Supply Chain
 
-### Who Watches the Watchers? - Launch 6/16/23
-Sikes Call Center Breach
-
-### They've never asked, but ok, sure - Launch 6/23/23
-CapitalOne WAF
-Cloud Configuration
-
-### All by Myself - Launch 6/30/23
-NotPetya, Maersk, and the last AD Controller
-Backup and Recovery
-Ransomware
-
-### Noise Noise Noise - Launch 7/14/23
-Target Breach
-
-### Seeds aren't just Planted - Launch 7/21/23
-RSA Breach
-
-### The patient flatlined - Launch 7/28/23
-Pulse VPN Vulnerability
-
-### Billion Dollar Baby - 8/4/23
-Elon Musk fires all your people
-
 ## ICS
 
 ### Water Water Everywhere - Comming Soon
