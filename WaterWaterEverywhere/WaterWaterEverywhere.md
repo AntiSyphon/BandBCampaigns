@@ -10,7 +10,7 @@ ICS OT Core Deck v1.1
 
 ## Scenarios
 
-[](Solution-WaterWaterEverywhere.png)
+![](Solution-WaterWaterEverywhere.png)
 
 ### Initial Compromise
 
