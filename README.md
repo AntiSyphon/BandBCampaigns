@@ -14,30 +14,27 @@ Let us know what you think! And if somehow you arrived here having never heard o
 
 ## Core
 
-### The Call Came from Inside the Network - Launched 5/17/23
+### The Call Came from Inside the Network
 [Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/Call%20From%20Inside%20the%20Network/Call%20From%20Inside%20the%20Network.md)
 
 Ubiquiti Breach - Insider Threat
 
-### That's Disputable - Launch 6/2/23
+### That's Disputable
 Equifax
 Web Server 
 
-### Supply & Demand - Launch 6/9/23
+### Supply & Demand
 Solarwinds
 Supply Chain
 
 ## ICS
 
-### Water Water Everywhere - Comming Soon
+### Water Water Everywhere
 Florida Water Treatment Plant
 
-### A Series of Tubes - Comming Soon
+### A Series of Tubes
 Colonial Pipeline
 
-### You Spin Me Right Round - Comming Soon
+### You Spin Me Right Round
 Stuxnet
 
-##Threat Hunting
-
-Campaigns coming soon
