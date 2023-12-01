@@ -15,14 +15,12 @@ Let us know what you think! And if somehow you arrived here having never heard o
 ## Core
 
 ### The Call Came from Inside the Network
-*A scneario based on the Ubiquiti Breach. Is your team ready for an insider threat attempting to extort you that also happens to be on your Incident Response Team?
+*A scneario based on the Ubiquiti Breach. Is your team ready for an insider threat attempting to extort you that also happens to be on your Incident Response Team?*
 
 [Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/Call%20From%20Inside%20the%20Network/Call%20From%20Inside%20the%20Network.md)
 
-Notes: Ubiquiti Breach - Insider Threat
-
 ### That's Disputable
-A scenario based on the Equifax breach. How does you team handle critical vulnerablities on a publically facing system disclosing millions of PII records?
+*A scenario based on the Equifax breach. How does you team handle critical vulnerablities on a publically facing system disclosing millions of PII records?*
 
 [Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/That's%20Disputable/That's%20Disputable.md)
 
