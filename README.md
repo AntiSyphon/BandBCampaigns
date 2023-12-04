@@ -24,8 +24,6 @@ Let us know what you think! And if somehow you arrived here having never heard o
 
 [Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/That's%20Disputable/That's%20Disputable.md)
 
-##ICS
-
 ### Supply & Demand
 Solarwinds
 Supply Chain
